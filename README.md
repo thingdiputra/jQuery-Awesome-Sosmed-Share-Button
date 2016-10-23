@@ -76,3 +76,7 @@ JS
 &lt;/script&gt;</pre>
 
 <h3><a href="http://ibacor.com/demo/jquery-awesome-sosmed-share-button/">DEMO</a></h3>
+
+<h2>Additional Feature</h2>
+<p>Hover effect to make the share button more interesting</p>
+<img src="http://makeagif.com/i/fNI4hS"/>
