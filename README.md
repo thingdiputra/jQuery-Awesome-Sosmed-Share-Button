@@ -79,4 +79,4 @@ JS
 
 <h2>Additional Feature</h2>
 <p>Hover effect to make the share button more interesting</p>
-<img src="http://makeagif.com/i/fNI4hS"/>
+![hover](http://i.makeagif.com/media/10-23-2016/fNI4hS.gif)
